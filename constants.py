@@ -1,3 +1,0 @@
-LLM_MODEL = "gpt-4o-mini"
-MAX_TOKENS = 2000
-TEMPERATURE = 0.0
