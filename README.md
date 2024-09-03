@@ -25,7 +25,7 @@ cd AI_Receiptionist_Doctor
 ```
 ### Install Required Packages
 ```bash
-python -m venv venv
+python -m venv venv # Use python3 for mac
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 pip install -r requirements.txt
 ```
