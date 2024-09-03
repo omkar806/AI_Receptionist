@@ -5,7 +5,7 @@ This project is a Streamlit application designed to act as an AI receptionist fo
 ## Features
 
 - **Emergency Handling**: The AI guides the patient through describing their emergency and provides instructions based on a vector search.
-- **Message Taking**: The AI can take messages for the doctor and confirm receipt.
+
 - **Location Processing**: The AI asks for the patient's location to provide accurate information to the doctor.
 
 ## Setup Instructions
