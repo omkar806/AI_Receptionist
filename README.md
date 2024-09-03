@@ -20,7 +20,7 @@ Ensure you have the following installed:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone 
+git clone https://github.com/omkar806/AI_Receptionist
 cd AI_Receiptionist_Doctor
 ```
 ### Install Required Packages
